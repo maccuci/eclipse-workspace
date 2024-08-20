@@ -1,0 +1,5 @@
+name: Commons
+version: 1.0.0-SNAPSHOT
+author: AnthonyStaunch
+description: Account management, command, permissions.
+main: me.tony.commons.bukkit.BukkitMain

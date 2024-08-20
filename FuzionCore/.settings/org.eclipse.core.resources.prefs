@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/com/fuzion/core/bukkit/command/GroupCommand.java=UTF-8
+encoding//src/com/fuzion/core/bukkit/command/ModeratorCommand.java=UTF-8
+encoding//src/com/fuzion/core/master/account/management/PunishManager.java=UTF-8
+encoding//src/com/fuzion/core/master/account/management/TagManager.java=UTF-8
+encoding//src/com/fuzion/core/master/clan/ClanRank.java=UTF-8
+encoding//src/com/fuzion/core/proxy/commands/LobbyCommand.java=UTF-8

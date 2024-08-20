@@ -1,0 +1,7 @@
+name: WDR
+author: Feenks
+main: me.feenks.wdr.bungee.WDRBungee
+version: dwdr-4935qo
+commands:
+ wdrbungee:
+ 

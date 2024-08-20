@@ -1,0 +1,5 @@
+name: Core
+version: 1.0
+authors: [Ale, Houtage]
+description: Plugin that takes care of the backend part of the network.
+main: com.fuzion.core.bukkit.BukkitMain

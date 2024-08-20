@@ -1,0 +1,4 @@
+name: Core
+version: dcore-4032dl
+main: me.feenks.core.bukkit.BukkitMain
+author: Feenks

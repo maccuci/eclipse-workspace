@@ -1,0 +1,5 @@
+name: RankUP
+version: 0.1.1
+main: br.com.houldmc.rankup.Main
+description: [game-engine]
+authors: [AnthonyStaunch, HoutageDev]

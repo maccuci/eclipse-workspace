@@ -1,0 +1,22 @@
+#Cancel player move event when is on login/register session.
+BLOCK_ON_MOVE: true
+
+#Join messages.
+REMOVE_JOIN_MESSAGE: true
+
+REMOVE_QUIT_MESSAGE: true
+
+#In seconds.
+TIME_TO_REPEAT_LOGIN_MESSAGE: 4
+
+USE_MYSQL: true
+
+#Only works if the 'ONLY_USE_PREMIUM_CHECKER' is false.
+MYSQL:
+   HOSTNAME: 'localhost'
+   PORT: '3306'
+   DATABASE: 'logins'
+   USERNAME: 'root'
+   PASSWORD: ''
+
+ONLY_USE_PREMIUM_CHECKER: false

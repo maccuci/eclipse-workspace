@@ -1,0 +1,5 @@
+name: PvP
+version: pvp-0.1
+author: Ale
+description: alternate pvp
+main: com.fuzion.kitpvp.Main

@@ -1,0 +1,9 @@
+name: FrostLogin
+main: me.ale.login.Bukkit
+author: Feenks
+version: 1.0
+commands:
+   login:
+   register:
+   changepassword:
+      aliases: [changepass]

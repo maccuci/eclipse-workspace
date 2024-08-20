@@ -1,0 +1,10 @@
+name: Commons
+author: ElPaxo
+main: me.ale.commons.bungee.BungeeMain
+version: 1.0
+commands:
+ connect:
+ report:
+ lobby:
+ broadcast:
+ 

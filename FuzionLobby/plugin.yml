@@ -1,0 +1,6 @@
+name: Lobby
+version: 1.0
+authors: [Ale, Houtage]
+main: me.ale.lobby.Main
+commands:
+ 

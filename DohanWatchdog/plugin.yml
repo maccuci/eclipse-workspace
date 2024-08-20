@@ -1,0 +1,7 @@
+name: WDR
+version: dwdr-4935qo
+main: me.feenks.wdr.WDR
+author: Feenks
+commands:
+ wdr:
+  aliases: [watchdogreport]

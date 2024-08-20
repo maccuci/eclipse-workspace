@@ -1,0 +1,4 @@
+name: Commons
+version: 0.0.1-SNAPSHOT
+author: AnthonyStaunch
+main: me.tony.commons.bukkit.BukkitMain

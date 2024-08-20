@@ -1,0 +1,4 @@
+name: Core
+version: unknown-version
+author: Feenks
+main: com.fuzion.core.bukkit.BukkitMain

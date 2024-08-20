@@ -1,0 +1,4 @@
+name: BedWars
+version: 1.0.0-SNAPSHOT
+author: AnthonyStaunch
+main: me.tony.bedwars.Main

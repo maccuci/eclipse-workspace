@@ -1,0 +1,5 @@
+name: PvP
+version: ueasx1
+author: Feenks
+description: alternate pvp
+main: com.fuzion.pvp.Main

@@ -1,0 +1,4 @@
+name: HardcoreGames
+version: 1.0
+authors: [Ale, Houtage]
+main: com.fuzion.hg.Main
